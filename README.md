@@ -57,13 +57,8 @@ The platform leverages open, free, and trusted educational ecosystems, including
 ---
 
 ## 📅 Timeline & Key Milestones
-```markdown
-```markdown
-## 📅 Timeline & Key Milestones
-
 
 ```
-
 [Phase 1: Planning] ➔ [Phase 2: Tech Setup] ➔ [Phase 3: Testing & Validation]
 
 ```
