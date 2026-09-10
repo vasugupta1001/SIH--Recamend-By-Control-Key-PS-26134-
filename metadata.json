@@ -1,0 +1,6 @@
+{
+  "name": "AI Impact Across Sectors",
+  "description": "Comprehensive exploration of AI impact, industry skill requirements, government training schemes, global university courses, and career opportunities across sectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
