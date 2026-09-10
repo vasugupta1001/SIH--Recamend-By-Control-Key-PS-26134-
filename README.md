@@ -78,19 +78,16 @@ The platform leverages open, free, and trusted educational ecosystems, including
 * Conduct end-to-end testing of skill-assessment modules.
 * Fine-tune feedback integration and platform performance.
 
-```
-
 ## 📚 Core Research & Reference Sources
 
-1. **SWAYAM Platform**
-2. **PMGDISHA Certification**
-3. **EdX Platform**
-4. **Skill India Digital**
-5. **NISM Certifications**
-6. **World Bank Publications**
-7. **Rojgar Mahaswayam Portal**
-8. **MESC India Skill Gap Report**
-9. **NPTEL Online Courses**
-10. **Film and Television Institute of India (FTII) Courses**
-
+* **SWAYAM Platform**
+* **PMGDISHA Certification**
+* **EdX Platform**
+* **Skill India Digital**
+* **NISM Certifications**
+* **World Bank Publications**
+* **Rojgar Mahaswayam Portal**
+* **MESC India Skill Gap Report**
+* **NPTEL Online Courses**
+* **Film and Television Institute of India (FTII) Courses**
 ```
