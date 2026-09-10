@@ -118,27 +118,20 @@ The platform leverages open, free, and trusted educational ecosystems, including
 
 ## 📅 Timeline & Key Milestones
 
+* **Phase 1: Project Planning & Ideation** *(Target Date: August 24)*
+  * Finalize project idea and problem scope.
+  * Assign explicit team roles and establish presentation frameworks.
+  * Research target platforms for course aggregation.
 
-```
+* **Phase 2: Technical & Environment Setup** *(Target Date: September 6)*
+  * Initialize repository, project architecture, and development workspace.
+  * Configure external API connections.
+  * Design DB schema to support real-time catalog synchronization.
 
-[Phase 1: Planning] ➔ [Phase 2: Tech Setup] ➔ [Phase 3: Testing & Validation]
-
-```
-
-#### **Phase 1: Project Planning & Ideation** *(Target: August 24)*
-* Finalize project idea and problem scope.
-* Assign explicit team roles and establish presentation frameworks.
-* Research target platforms for course aggregation.
-
-#### **Phase 2: Technical & Environment Setup** *(Target: September 6)*
-* Initialize repository, project architecture, and development workspace.
-* Configure external API connections.
-* Design DB schema to support real-time catalog synchronization.
-
-#### **Phase 3: Testing & Validation** *(Target: September 8)*
-* Internal validation of the course recommendation engine.
-* Conduct end-to-end testing of skill-assessment modules.
-* Fine-tune feedback integration and platform performance.
+* **Phase 3: Testing & Validation** *(Target Date: September 8)*
+  * Internal validation of the course recommendation engine.
+  * Conduct end-to-end testing of skill-assessment modules.
+  * Fine-tune feedback integration and platform performance.
 
 ---
 
